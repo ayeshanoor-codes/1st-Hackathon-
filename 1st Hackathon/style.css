@@ -1,0 +1,373 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1eeee !important;
+}
+
+.hero {
+  background-color: #F9E6D0;
+  border-radius: 50px;
+  width: 70vw;
+  height: 80vh;
+  margin-bottom: 40px;
+  text-align: center;
+  margin-top: 40px;
+  padding: 150px;
+  margin-left: 100px;
+
+}
+
+.happy-img {
+  width: 22vw;
+  display: flex;
+  margin-top: -338px;
+  margin-left: -148px;
+  border-end-start-radius: 50px;
+
+}
+
+.happy-img2 {
+  width: 22vw;
+  display: flex;
+  margin-top: -490px;
+  margin-left: 503px;
+  border-end-end-radius: 50px;
+
+}
+
+.hero h1 {
+  font-weight: bold;
+}
+
+.hero img {
+  max-width: 100%;
+
+}
+
+.section-card {
+  padding: 40px 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar {
+
+  margin-top: 50px;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.hero-section {
+  background: #fbeedc;
+  border-radius: 16px;
+  padding: 60px 30px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.hero-section h2 {
+  font-weight: 700;
+}
+
+.hero-section p {
+  color: #555;
+}
+
+.hero-section .btn {
+  background-color: #004d40;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+.info-section {
+  margin-top: 60px;
+}
+
+.info-section h3 {
+  font-weight: 700;
+}
+
+.info-section p {
+  color: #444;
+}
+
+.info-section .btn {
+  background-color: #004d40;
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin-top: 15px;
+}
+
+img.illustration {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.section-title h2 {
+  font-weight: 700;
+}
+
+.card-custom {
+  border-radius: 50px;
+  border: none;
+  padding: 2rem;
+  min-height: 230px;
+}
+
+.card-left {
+  background-color: #F9E6D0;
+}
+
+.card-right {
+  background-color: #ffffff;
+  padding: 43px;
+}
+
+/* Wellness Coaching Card */
+.coaching-card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.btn-learn {
+  border-radius: 25px;
+  padding: 0.5rem 1.5rem;
+  font-size: 0.9rem;
+  background-color: #1e3932;
+  color: #fff;
+  border: none;
+}
+
+.btn-learn:hover {
+  background-color: #162823;
+}
+
+/* Testimonials */
+.testimonial-title {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.testimonial-card {
+  border-radius: 50px;
+  padding: 45px;
+  border: none;
+  height: 100%;
+}
+
+.testimonial-light {
+  background-color: #F9E6D0;
+}
+
+.testimonial-dark {
+  background-color: #00373E;
+  color: white;
+}
+
+.arrow-btn {
+  border-radius: 50%;
+  border: none;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  margin: 0 5px;
+  background-color: #1e3932;
+  color: #fff;
+}
+
+/* Partner logos */
+.partners {
+  border-bottom: 1px solid #e0e0e0;
+  padding: 2rem 0;
+  margin-bottom: 3rem;
+  background-color: white;
+  border-radius: 30px;
+}
+
+.logos-line {
+  margin-bottom: -30px;
+}
+
+.partners img {
+  max-height: 30px;
+  margin: 0 20px;
+  opacity: 0.8;
+}
+
+/* Section title */
+.section-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.section-header h2 {
+  font-weight: 700;
+}
+
+/* Resource Cards */
+.resource-card {
+  border-radius: 20px;
+  padding: 2rem 1.5rem;
+  border: none;
+  height: 100%;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+
+}
+
+.resource-btn {
+  border-radius: 20px;
+  padding: 0.4rem 1rem;
+  font-size: 0.85rem;
+  color: #fff;
+  border: none;
+}
+
+.btn-yellow {
+  background-color: #f7b500;
+}
+
+.btn-green {
+  background-color: #00a57e;
+}
+
+.btn-pink {
+  background-color: #f28ca0;
+}
+
+/* Community Card */
+.community-card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 2.5rem;
+  margin-top: 3rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.community-btn {
+  background-color: #1e3932;
+  border: none;
+  border-radius: 25px;
+  padding: 0.6rem 1.5rem;
+  color: #fff;
+}
+
+.community-btn:hover {
+  background-color: #162823;
+}
+
+.faq-section {
+  padding: 60px 0;
+}
+
+.plus-sign {
+  margin-left: 250px;
+  margin-top: 15px;
+  height: 30px;
+}
+
+.plus-sign2 {
+  margin-left: 280px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.plus-sign3 {
+  margin-left: 110px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.plus-sign4 {
+  margin-left: 192px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.plus-sign5 {
+  margin-left: 110px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.plus-sign6 {
+  margin-left: 115px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.roundness {
+  border-radius: 3%;
+  margin-top: 25px;
+  background-color: white;
+}
+
+.faq-title {
+  font-weight: 700;
+  margin-bottom: 20px;
+
+}
+
+.contact-section {
+  padding: 60px 0;
+}
+
+.contact-card {
+  padding: 30px;
+  border-radius: 30px;
+  background: #FDF7F1;
+}
+
+.social-apps {
+  padding: 8px;
+}
+
+footer {
+
+  padding: 40px 0;
+  margin-top: 50px;
+}
+
+.contact-list {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 20px;
+
+}
+
+.support-box {
+  background: #004d40;
+  color: #fff;
+  border-radius: 12px;
+  padding: 50px;
+}
+
+.support-box a {
+  background: #fff;
+  color: #004d40;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 5px 10px;
+}
